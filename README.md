@@ -18,15 +18,15 @@ The resulting database schema can be structured as follows:
   
   **Requests**
   
-  1.Create  the  database  schema,  with  referential  integrity  constraints.  Fill  the  database  with  the provided data file.
+  1. Create  the  database  schema,  with  referential  integrity  constraints.  Fill  the  database  with  the provided data file.
   
-  2.Show users(name,  surname)  who  have  phone  numbers  with British  companies.Each usershould appear only once in the result.
+  2. Show users(name,  surname)  who  have  phone  numbers  with British  companies.Each usershould appear only once in the result.
   
-  3.Show  Italian users(name,  surname)  who activated  a  phone  number  before  2015(included)  with companies whose country starts with “U”. Each usershould appear       only once in the result.
+  3. Show  Italian users(name,  surname)  who activated  a  phone  number  before  2015(included)  with companies whose country starts with “U”. Each usershould appear       only once in the result.
   
-  4.For each  and  allItaliancompanies,  show  their  name  and  average  number  of  phone  numbers  per user.  You  can  count  the sum of phone  numbersof  each  company  and  the sum  of  users  of  each company, and divide the two amounts.
+  4. For each  and  allItaliancompanies,  show  their  name  and  average  number  of  phone  numbers  per user.  You  can  count  the sum of phone  numbersof  each  company  and  the sum  of  users  of  each company, and divide the two amounts.
   
-  5.For each  and allcompanies, compute the number of phones of that company that have plans with unlimited minutes or unlimited GBs.
+  5. For each  and allcompanies, compute the number of phones of that company that have plans with unlimited minutes or unlimited GBs.
   
-  6.Compute,  for each  and  allcompanies  (show  the  name),  the  average  number  of  years  for  which aphone number has been active and the average number of years for which numbers have activated their current plan. The two results must be shown in the same row.
+  6. Compute,  for each  and  allcompanies  (show  the  name),  the  average  number  of  years  for  which aphone number has been active and the average number of years for which numbers have activated their current plan. The two results must be shown in the same row.
   
