@@ -16,7 +16,7 @@ The resulting database schema can be structured as follows:
   - FK: user_id → User (id)
   - FK: plan_id → Plan (id)
   
-  *Requests*
+  **Requests**
   
   1.Create  the  database  schema,  with  referential  integrity  constraints.  Fill  the  database  with  the provided data file.
   
